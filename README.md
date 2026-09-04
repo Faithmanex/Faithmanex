@@ -67,7 +67,7 @@
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faithmanex&theme=github_dark" alt="Repos per language"/>
   </a>
   <a href="https://github.com/Faithmanex">
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=Faithmanex&theme=github_dark" alt="Commits per language"/>
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faithmanex&theme=github_dark" alt="Commits per language"/>
   </a>
   <a href="https://github.com/Faithmanex">
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faithmanex&theme=github_dark" alt="Productive time of day"/>
