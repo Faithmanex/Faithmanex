@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/Faithmanex">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faithmanex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faithmanex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/Faithmanex">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faithmanex&layout=compact&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faithmanex&layout=compact&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
   </a>
 </p>
 
@@ -56,7 +56,23 @@
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faithmanex&bg_color=0D1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="100%" alt="Contribution graph"/>
+<p align="center">
+  <a href="https://github.com/Faithmanex">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faithmanex&theme=github_dark" alt="Profile activity details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Faithmanex">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faithmanex&theme=github_dark" alt="Repos per language"/>
+  </a>
+  <a href="https://github.com/Faithmanex">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=Faithmanex&theme=github_dark" alt="Commits per language"/>
+  </a>
+  <a href="https://github.com/Faithmanex">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faithmanex&theme=github_dark" alt="Productive time of day"/>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 
