@@ -10,10 +10,10 @@
 
 | | |
 |---|---|
-| 🔧 **[Formatly](https://github.com/Faithmanex/formatly)** | AI-powered academic document formatting — Python engine, Next.js web app, and Flutter mobile that turn drafts into clean APA, MLA, and Chicago-style documents. |
+| 🔧 **[Formatly](https://github.com/Faithmanex/formatly)** | AI-powered academic document formatting — a Python engine, Next.js web app, and Flutter mobile client that turn drafts into clean APA, MLA, and Chicago-style documents. |
 | 📚 **[CitePilot](https://github.com/Faithmanex/citepilot)** | AI-powered citation consistency checker. Crossref/DOI validation, hallucinated & retracted reference detection, 10 citation styles, PDF and annotated-DOCX exports. (Next.js · FastAPI · PostgreSQL · Gemini) |
-| 🎖️ **[Vetscribe](https://github.com/Faithmanex/Vetscribe)** | A professional, responsive website dedicated to veterans. |
-| 🎓 **[Nexcellence Doctoral Academy](https://github.com/Faithmanex/Nexcellence-Doctoral-Academy)** | Website for PhD support and training. |
+| 🎖️ **[Vetscribe](https://github.com/Faithmanex/Vetscribe)** | A professional, responsive website dedicated to veterans — built as a modern TypeScript front end with a clean, accessible interface for sharing resources, services, and support information with the veteran community. |
+| 🎓 **[Nexcellence Doctoral Academy](https://github.com/Faithmanex/Nexcellence-Doctoral-Academy)** | Official website for a doctoral support and training academy — programme and service information for PhD candidates, delivered through a responsive TypeScript front end. |
 
 ## 🚀 More of what I build
 
@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/Faithmanex">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faithmanex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithmanex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/Faithmanex">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faithmanex&layout=compact&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithmanex&layout=compact&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
   </a>
 </p>
 
@@ -67,7 +67,7 @@
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faithmanex&theme=github_dark" alt="Repos per language"/>
   </a>
   <a href="https://github.com/Faithmanex">
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faithmanex&theme=github_dark" alt="Commits per language"/>
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faithmanex&theme=github_dark" alt="Commit stats"/>
   </a>
   <a href="https://github.com/Faithmanex">
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faithmanex&theme=github_dark" alt="Productive time of day"/>
