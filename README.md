@@ -17,13 +17,12 @@
 
 ## 🚀 More of what I build
 
-- **[Echel Lab](https://github.com/Faithmanex/echel-lab)** — product & platform workspace, including **[EchelClaw](https://github.com/Faithmanex/echelclaw-agent)**, an autonomous agent runtime
-- **[WhatsClaw](https://github.com/Faithmanex/WhatsClaw)** — WhatsApp agent integration
-- **[hydra-cbt](https://github.com/Faithmanex/hydra-cbt)** — snap CBT exam questions and get AI answers on screen (Gemini vision)
-- **[Fit-Check](https://github.com/Faithmanex/Fit-Check)** — AI virtual try-on: upload a photo, choose a garment
-- **[PillUp](https://github.com/Faithmanex/PillUp)** — medication reminders & adherence app (Flutter)
 - **[Royal Sun Power Ltd](https://github.com/Faithmanex/ROYAL-SUN-Power-Ltd)** — site for a Nigerian energy & solar engineering company
-
+- **[PillUp](https://github.com/Faithmanex/PillUp)** — medication reminders & adherence app (Flutter)
+- **[Fit-Check](https://github.com/Faithmanex/Fit-Check)** — AI virtual try-on: upload a photo, choose a garment
+- **[hydra-cbt](https://github.com/Faithmanex/hydra-cbt)** — snap CBT exam questions and get AI answers on screen (Gemini vision)
+- **[WhatsClaw](https://github.com/Faithmanex/WhatsClaw)** — WhatsApp agent integration
+- **[Echel Lab](https://github.com/Faithmanex/echel-lab)** — product & platform workspace, including **[EchelClaw](https://github.com/Faithmanex/echelclaw-agent)**, an autonomous agent runtime
 ## 🛠 Tech stack
 
 <p align="center">
